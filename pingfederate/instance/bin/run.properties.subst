@@ -18,7 +18,7 @@
 # PingFederate's administrative API to represent itself to clients.
 # If left empty, PingFederate will do a name lookup to find its name.
 #pf.admin.hostname=${PF_ADMIN_HOSTNAME}
-pf.admin.baseurl=https://${PF_ADMIN_HOSTNAME}:443
+pf.admin.baseurl=https://${PF_ADMIN_HOSTNAME}
 
 
 #
