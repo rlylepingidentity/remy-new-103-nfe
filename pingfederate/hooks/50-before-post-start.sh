@@ -35,7 +35,7 @@ ls /opt/out/instance/server/default/lib/pf-authn-api-sdk-*
 echo PingID IK
 # PingID IK
 rm -f /opt/out/instance/server/default/deploy/pf-pingid-idp-adapter-2.6.jar
-rm -f /opt/out/instance/server/default/deploy/pf-pingid-quickconnection-1.0.1.jar
+#rm -f /opt/out/instance/server/default/deploy/pf-pingid-quickconnection-1.0.1.jar
 rm -f /opt/out/instance/server/default/deploy/PingIDRadiusPCV-2.5.0.jar
 echo P14C IKs
 rm -f /opt/out/instance/server/default/deploy/pf-p14c-*
