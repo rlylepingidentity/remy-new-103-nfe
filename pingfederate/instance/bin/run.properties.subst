@@ -18,7 +18,7 @@ pf.admin.https.port=${PF_ADMIN_PORT}
 # PingFederate's administrative API to represent itself to clients.
 # If left empty, PingFederate will do a name lookup to find its name.
 #pf.admin.hostname=${PF_ADMIN_HOSTNAME}
-pf.admin.baseurl=${PF_ADMIN_HOSTNAME}:1443
+pf.admin.baseurl=${PF_ADMIN_HOSTNAME}:443
 
 
 #
